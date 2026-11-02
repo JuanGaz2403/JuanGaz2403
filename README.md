@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Juan David Garcés Peñafiel 👋
 
-<!--
-**JuanGaz2403/JuanGaz2403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería de Software en la UDLA** y co-fundador de **MOMOS** (Mentes Orientadas al Modelado de Objetos y Soluciones). Construyo software enfocado en resolver problemas logísticos, de gestión y arquitectura.
 
-Here are some ideas to get you started:
+### 💻 Tecnologías y Herramientas
+- **Lenguajes:** Java, C#, SQL
+- **Entornos:** IntelliJ IDEA, Visual Studio
+- **Bases de Datos & Redes:** MySQL (Aiven/Railway), ASP.NET Core, C# .NET MAUI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos Destacados
+- **SkyQ:** Sistema de gestión de colas de aeropuertos con lógica de prioridad de abordaje y asignación de asientos.
+- **TurfWars:** Plataforma de conquista territorial urbana basada en ubicación usando hexágonos espaciales H3.
+- **Smart Management System:** Plataforma SaaS de punto de venta e inventario para microempresas.
+- **ARQUILEANS:** App educativa con IA y QuickChart Graphviz para generar diagramas de arquitectura de software.
+
+---
+📫 **Contacto:** [Enlace a tu LinkedIn] | [Tu Correo]
