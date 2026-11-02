@@ -14,10 +14,9 @@ Estudiante de **Ingeniería de Software en la UDLA**. Estoy aprendiendo a constr
 
 ### 📊 Mis Estadísticas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanGaz2403&show_icons=true&hide_border=true&title_color=ffffff&icon_color=4cbf8a&text_color=ffffff&bg_color=2C3E50" alt="Estadísticas de Juan" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGaz2403&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=2C3E50" alt="Lenguajes Top" height="170" />
-</p>
+![Estadísticas de Juan](https://github-readme-stats.vercel.app/api?username=JuanGaz2403&show_icons=true&theme=dark&bg_color=2C3E50&hide_border=true)
+
+![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGaz2403&layout=compact&theme=dark&bg_color=2C3E50&hide_border=true)
 
 ### 🚀 Proyectos Destacados
 * ✈️ **SkyQ:** Sistema de gestión de colas de aeropuertos con lógica de prioridad de abordaje.
